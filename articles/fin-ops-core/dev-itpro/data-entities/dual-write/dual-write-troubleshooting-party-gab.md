@@ -82,7 +82,7 @@ Dual-write Party and Global Address Book Solutions contains the following soluti
 
 ## Error when you try to create a new contact from the View Contact form
 
-You might receive the following error message when you try to create a new contract from the **View Contact** form in a finance and operations app:
+You might receive the following error message when you try to create a new contact from the **View Contact** form in a finance and operations app:
 
 *Unable to write data to entity msdyn_contactforparties. Unable to lookup msdyn_parties with values {000006057}. Unable to lookup cdm_workers with values {000020}.*
 
