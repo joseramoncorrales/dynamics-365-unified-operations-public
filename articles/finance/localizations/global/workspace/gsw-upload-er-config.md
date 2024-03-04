@@ -76,13 +76,13 @@ To create a Dataverse solution, follow these steps.
 
 ## Step 4: Pack the solution
 
-- Pack the solution by using the **pac solution unpack** command. Here's an example.
+- Pack the solution by using the **pac solution pack** command. Here's an example.
 
     ``` command
     pac solution pack --zipfile C:\SampleSolutionWithContents.zip --folder C:\SampleSolutionUnpacked --packagetype Both
     ```
 
-    For more information, see [pac solution unpack](/power-platform/developer/cli/reference/solution#pac-solution-unpack).
+    For more information, see [pac solution pack](/power-platform/developer/cli/reference/solution#pac-solution-pack).
 
 > [!NOTE]
 > Check the size of the .zip file that's generated. If it exceeds 90 megabytes (MB), you must split your source files into multiple Dataverse solutions.
